@@ -1,1 +1,6 @@
-# .cosmostaking![logo_full_dark](https://github.com/user-attachments/assets/7523151c-e6d1-4413-b0ff-e8ed2de85220)
+<img src="https://cosmostaking.com/images/logo/logo_full_dark.png">
+
+##
+<h2><img src="https://cosmostaking.com/images/logo/logo_icon_dark.png" style="width:15px;height:15px;"> About Us</h2>
+##
+Cosmostaking is the trusted staking service provider for blockchain projects.
